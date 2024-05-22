@@ -1,5 +1,7 @@
 # Pesquisa-Criptografia
 
+#ATENÇÃO: A criptografia só serve para letras de 'a' até 'z', sem inclusão de espaçamento, letras maíusculas, acentos e/ou caracteres especiais.
+
 #1ª regra – Para percorrer a tabela, deve-se utilizar uma sequência de números binários, nesta sequência numérica o número “1” significa que o caractere corresponde de acordo com a sua ordem, e o número “0” não corresponde.
 
 #2ª regra – O número binário deve percorrer a tabela da esquerda para a direita, preenchendo seu último caractere na primeira casa decimal da direita para a esquerda (2**0).
