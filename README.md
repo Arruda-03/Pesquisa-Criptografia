@@ -1,6 +1,6 @@
 # Pesquisa-Criptografia
 
-#ATENÇÃO: A criptografia só serve para letras de 'a' até 'z', sem inclusão de espaçamento, letras maíusculas, acentos e/ou caracteres especiais.
+#ATENÇÃO: O programa da criptografia só serve para letras de 'a' até 'z', sem inclusão de espaçamento, letras maíusculas, acentos e/ou caracteres especiais.
 
 #1ª regra – Para percorrer a tabela, deve-se utilizar uma sequência de números binários, nesta sequência numérica o número “1” significa que o caractere corresponde de acordo com a sua ordem, e o número “0” não corresponde.
 
